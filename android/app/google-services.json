@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "861515579498",
+    "project_id": "rabbit-bazaar",
+    "storage_bucket": "rabbit-bazaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861515579498:android:af4f5d641222e2c26a0a13",
+        "android_client_info": {
+          "package_name": "com.systemx.rabbitbazaar.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDeFiBhuWnvJnzilJ9QojM4WX3xlOpmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861515579498:android:d24edcfe8e63a1576a0a13",
+        "android_client_info": {
+          "package_name": "com.systemx.rabbitbazaar.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDeFiBhuWnvJnzilJ9QojM4WX3xlOpmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861515579498:android:6ed0bab5f943d5ff6a0a13",
+        "android_client_info": {
+          "package_name": "com.systemx.rabbitbazaar.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDeFiBhuWnvJnzilJ9QojM4WX3xlOpmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
